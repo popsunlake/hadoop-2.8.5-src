@@ -26,4 +26,9 @@
         <name>dfs.namenode.name.dir</name>
         <value>/D:/idea-hadoop/hadoop-2.8.5/namenode-data/dfs/namenode</value>
     </property>
+
+    <property>
+        <name>dfs.datanode.data.dir</name>
+        <value>/D:/idea-hadoop/hadoop-2.8.5/datanode-data/dfs/datanode</value>
+    </property>
 </configuration>
